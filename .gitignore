@@ -1,5 +1,5 @@
 /.idea
 /iac/.credentials
 /iac/.id_rsa
-/iac/.terraform/
+/iac/.terraform*
 /iac/settings.json
