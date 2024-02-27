@@ -1,0 +1,5 @@
+/.idea
+/iac/.credentials
+/iac/.id_rsa
+/iac/.terraform/
+/iac/settings.json
