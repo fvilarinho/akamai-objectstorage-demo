@@ -4,7 +4,7 @@ Getting Started
 ### Introduction
 This is a demo project for education/training purposes.
 
-It automates (using **Terraform**) the provisioning of a static website using the following resources in Akamai 
+It automates (using **Terraform**) the provisioning of the following resources in Akamai 
 Connected Cloud (former Linode):
 - **Object Storage**: S3 compliant object storage.
 - **Linode**: Compute instance.
